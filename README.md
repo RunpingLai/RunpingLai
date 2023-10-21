@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Runping Lai</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m actively searching for **2023 Summer Internship in SWE**
-
-- 🌱 I’m currently learning **Database System Implementation and Operating System**
+- 🔭 I’m actively searching for **Software Engineer Full-time jobs**
 
 - 📫 How to reach me **runping.lai@gmail.com**
 
