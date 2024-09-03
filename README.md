@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Runping Lai</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m actively searching for **Software Engineer Full-time jobs**
+- 🔭 I’m a **Software Engineer**
 
 - 📫 How to reach me **runping.lai@gmail.com**
 
